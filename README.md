@@ -1,5 +1,3 @@
-<h1>Curso Programadores Cariocas</h1>
-
 <h3> Projeto Individual Módulo 5 </h3>
 
 
