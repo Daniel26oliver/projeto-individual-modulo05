@@ -1,4 +1,4 @@
-<h3> Projeto Individual Módulo 5 </h3>
+<h2> Projeto Individual Módulo 5 </h2>
 
 
 <br><br>
